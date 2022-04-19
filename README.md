@@ -6,4 +6,5 @@ Vessels meet at sea for multiple reasons, such as refueling and exchanging crew,
 This dataset includes data on transshipment. Included are data on the following:<br>
 List of vessels involved in transshipment - Includes transshipment capable vessels (fish tenders, live fish carriers, factory/processors and refrigerated cargo vessels).
 Loitering events - Occurrences of transshipment-capable vessels drifting slowly enough and long enough to receive a transfer of catch, but during which time no fishing vessels are observed on AIS meeting with the vessel.
-Potential transshipment events (encounters) - Occurrences of transshipment-capable vessels drifting slowly enough and long enough to receive a transfer of catch and meeting with one or more fishing vessel that is actively broadcasting AIS.
+Potential transshipment events (encounters) - Occurrences of transshipment-capable vessels drifting slowly enough and long enough to receive a transfer of catch and meeting with one or more fishing vessel that is actively broadcasting AIS. <br>
+Source: Kaggle
