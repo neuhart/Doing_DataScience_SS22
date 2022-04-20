@@ -46,6 +46,10 @@ Source: Kaggle
 * **median_speed_knots**: Median speed (knots) of the transshipment vessel during the loitering event
 * **total_event_duration**: Total duration (hours) of the loitering event
 
+## Sources
+1. <a href="https://api.vesselfinder.com/docs/ref-flags.html">Country Flag Code</a>
+2. <a href="https://www.imo.org/en/OurWork/MSAS/Pages/IMO-identification-number-scheme.aspx#:~:text=The%20Number%20consists%20of%20seven,company%20and%2For%20registered%20owner">IMO Numbers</a>
+3. <a href="https://shiptracks.com/updates/2019/07/01/mmsi-imo-and-call-sign-what-is-the-difference/">Difference of MMSI, IMO and Callsign</a>
 
 
 
