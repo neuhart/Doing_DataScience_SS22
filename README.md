@@ -9,9 +9,9 @@ Loitering events - Occurrences of transshipment-capable vessels drifting slowly 
 Potential transshipment events (encounters) - Occurrences of transshipment-capable vessels drifting slowly enough and long enough to receive a transfer of catch and meeting with one or more fishing vessel that is actively broadcasting AIS. <br>
 Source: Kaggle
 ## Files description
-* **encounter-events.csv**     - data of two-vessel encounter
-* **loitering-events.csv**     - data of single-vessel loitering 
-* **transshipment-vessels.csv** - data of transshipment vessel
+* **encounter-events.csv**     - data of two-vessel encounter - 11682 rows x 9 columns
+* **loitering-events.csv**     - data of single-vessel loitering - 46570 rows x 9 columnes
+* **transshipment-vessels.csv** - data of transshipment vessel - 1125 rows x 7 columns 
 * **data_description.txt**     - full description of each column
 ## Data fields
 ### transshipment-vessels.csv
