@@ -1,19 +1,25 @@
 
 # Global Transshipment Behaviour
 
+### mmsi 
+* For **fishing vessel**, MMSI (Marine Mobile Service Identity number is an unique identifier for each vessel.
+* For **transshipment**, unlike fishing vessel, transshipment can swap flag registration over time, and each time the vessel changes flag registration it acquires a new MMSI
+* The goal of mmsi is communication via radio transmission
+
+### callsign
+* Maritime call signs are unique identifiers containing both characters and numbers
+* An MMSI is permanently attached to a callsign
+
 ### imo
-The IMO number is a unique seven digit number that is assigned to propelled, sea-going merchant ships of 100 GT and above upon.
+* The IMO ( International Organization Number) number of transshipment is a unique seven digit number that is assigned to propelled, sea-going merchant ships of 100 GT and above upon.
 
-While one vessel can have many MMSI numbers when working in different nations, IMO is unchanged.
-
-
-
+* While one transshipment can have many MMSI numbers when working in different nations, IMO is unchanged.
+* Unlike the MMSI, the intention for the IMO is not for communication, but to reduce fraud and increase safety.
 
 ### flag
-Under International law a Flag State means the State which has granted to a ship the right to sail under its flag.
+* Under International law a Flag State means the State which has granted to a ship the right to sail under its flag.
 
-In some countries, a ship can, for a limited period, be part of two registers, thereby sailing under two flags.
-
+* In some countries, a ship can, for a limited period, be part of two registers, thereby sailing under two flags.
 
 
 | Flag code | ANT| BHS |BLZ| BMU|BRB|CAN|CHL|CHN|COK|
