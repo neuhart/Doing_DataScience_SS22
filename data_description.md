@@ -11,7 +11,7 @@
 * An MMSI is permanently attached to a callsign
 
 ### imo
-* The IMO ( International Organization Number) number of transshipment is a unique seven digit number that is assigned to propelled, sea-going merchant ships of 100 GT and above upon.
+* The IMO (International Organization Number) number of transshipment is a unique seven digit number that is assigned to propelled, sea-going merchant ships of 100 GT and above upon.
 
 * While one transshipment can have many MMSI numbers when working in different nations, IMO is unchanged.
 * Unlike the MMSI, the intention for the IMO is not for communication, but to reduce fraud and increase safety.
