@@ -2,7 +2,7 @@
 <details><summary>Dataset</summary>
 
 * <a href="https://www.kaggle.com/datasets/sayansh001/global-transshipment-behaviour">Kaggle Data Source</a>
-* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/draft_goals/README.md">README</a>
+* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/README.md">README</a>
 * <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/data_description.md">Specified Data Description</a>
 * <a href="https://github.com/neuhart/Doing_DataScience_SS22/tree/main/data">Modified and Original Dataset</a>
 
