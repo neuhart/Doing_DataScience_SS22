@@ -15,9 +15,9 @@
 <details><summary>Codes</summary>
   
 * <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/maps.ipynb">Global Map</a>
+* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/EDA.ipynb">Data Cleaning</a>
 * <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/transformation.ipynb">Data Transformation</a>
 * <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/Clustering/Clustering_p.ipynb">Dimensional Reduction</a>
-
 
 </p>
 </details>
