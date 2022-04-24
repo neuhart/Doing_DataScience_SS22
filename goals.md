@@ -18,13 +18,13 @@
 
 * The original research paper that created the dataset, the kaggle description and further research by our own team (readme and data description)
 
-- https://www.frontiersin.org/articles/10.3389/fmars.2018.00240/full#:~:text=Transshipment%20behaviors%20were%20identified%20using,single%2Dvessel%20loitering%E2%80%9D%20events.
+- Identifying Global Patterns of Transshipment Behavior <a href="https://www.frontiersin.org/articles/10.3389/fmars.2018.00240/full#:~:text=Transshipment%20behaviors%20were%20identified%20using,single%2Dvessel%20loitering%E2%80%9D%20events">Miller et al. (2018)</a> 
 
-- https://www.kaggle.com/datasets/sayansh001/global-transshipment-behaviour
+- <a href="https://www.kaggle.com/datasets/sayansh001/global-transshipment-behaviour">Data Source</a>
 
-- https://github.com/neuhart/Doing_DataScience_SS22/blob/draft_goals/README.md
+- <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/draft_goals/README.md">README</a>
 
-- https://github.com/neuhart/Doing_DataScience_SS22/blob/draft_goals/data_description.md
+- <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/draft_goals/data_description.md">Data description</a>
 
 # Data Understanding:
 
