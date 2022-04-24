@@ -1,11 +1,12 @@
 # Sources
 <details><summary>Dataset</summary>
-  
-* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/data_description.md">Specified Data Description</a>
-  
-* <a href="https://www.kaggle.com/datasets/sayansh001/global-transshipment-behaviour">Data Source</a>
-  
+
+* <a href="https://www.kaggle.com/datasets/sayansh001/global-transshipment-behaviour">Kaggle Data Source</a>
 * <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/draft_goals/README.md">README</a>
+* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/data_description.md">Specified Data Description</a>
+* <a href="https://github.com/neuhart/Doing_DataScience_SS22/tree/main/data">Modified and Original Dataset</a>
+
+
 
 
 </p>
@@ -14,9 +15,7 @@
 <details><summary>Codes</summary>
   
 * <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/maps.ipynb">Global Map</a>
-  
 * <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/transformation.ipynb">Data Transformation</a>
-  
 * <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/Clustering/Clustering_p.ipynb">Dimensional Reduction</a>
 
 
