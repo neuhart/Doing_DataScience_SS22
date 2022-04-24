@@ -2,7 +2,7 @@
 
 ## What is the problem, what are the expected benefits?
 
-* Transhipment, i.e. ship to ship transaction involving goods, personnel etc., is a global phenomenon that often takes places in international waters 
+* Transhipment, i.e. ship to ship transactions involving goods, personnel etc., is a global phenomenon that often takes places in international waters 
 
 * Good faith actors have no incentive to report their activities and often do not have GOs and NGOs they could report to
 
@@ -18,13 +18,13 @@
 
 * The original research paper that created the dataset, the kaggle description and further research by our own team (readme and data description)
 
-> https://www.frontiersin.org/articles/10.3389/fmars.2018.00240/full#:~:text=Transshipment%20behaviors%20were%20identified%20using,single%2Dvessel%20loitering%E2%80%9D%20events.
+- https://www.frontiersin.org/articles/10.3389/fmars.2018.00240/full#:~:text=Transshipment%20behaviors%20were%20identified%20using,single%2Dvessel%20loitering%E2%80%9D%20events.
 
-> https://www.kaggle.com/datasets/sayansh001/global-transshipment-behaviour
+- https://www.kaggle.com/datasets/sayansh001/global-transshipment-behaviour
 
-> https://github.com/neuhart/Doing_DataScience_SS22/blob/draft_goals/README.md
+- https://github.com/neuhart/Doing_DataScience_SS22/blob/draft_goals/README.md
 
-> https://github.com/neuhart/Doing_DataScience_SS22/blob/draft_goals/data_description.md
+- https://github.com/neuhart/Doing_DataScience_SS22/blob/draft_goals/data_description.md
 
 # Data Understanding:
 
@@ -52,9 +52,9 @@
 
 * Recency will require some further investigation during evaluation
 
-> While the data is from within the last decade, there could be some shifts in behavior during the 5 years included in the datasets
+- While the data is from within the last decade, there could be some shifts in behavior during the 5 years included in the datasets
 
->> We do however include time related data in our models to counter this issue early on
+- We do however include time related data in our models to counter this issue early on
 
 # Data Preparation:
 
