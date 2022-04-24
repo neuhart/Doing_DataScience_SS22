@@ -1,4 +1,4 @@
-![CRISP DIAGRAM](https://www.dropbox.com/s/uzgq4j18lkrto6c/Screen%20Shot%202022-04-24%20at%2017.28.46.png?dl=0)
+![CRISP DIAGRAM](https://lh5.googleusercontent.com/5ulJ50MDksALSnYx0LYYgktVFtbipYeZQY88ZMQ22vkYPaRYJJ0UBKRs1Nt2IVB50migNK2cRS_cJspNcaiKg8ac-jra478c7Fj74L8_zaClWSnNNNIYhNcaMgL593yd9Q=w1280)
 
 # Sources
 <details><summary>Dataset</summary>
