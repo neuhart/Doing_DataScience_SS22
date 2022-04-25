@@ -1,4 +1,5 @@
-![CRISP DIAGRAM](https://lh5.googleusercontent.com/5ulJ50MDksALSnYx0LYYgktVFtbipYeZQY88ZMQ22vkYPaRYJJ0UBKRs1Nt2IVB50migNK2cRS_cJspNcaiKg8ac-jra478c7Fj74L8_zaClWSnNNNIYhNcaMgL593yd9Q=w1280)
+![CRISP DIAGRAM](https://lh5.googleusercontent.com/kdeGZjumVC5VZq5_TO_Oj0nIEEZzreW-fsBBpa-gTb_p26893OWDbjqMKKko3Ez7WijbvnE6TCKkSRh7IGfQuzNYJ87MgTeF7r23QDwxsQI26CxinaEwOMWjDlCTXj6MOA=w1280)
+
 
 # Sources
 <details><summary>Dataset</summary>
