@@ -1,4 +1,4 @@
-![CRISP DIAGRAM](https://lh6.googleusercontent.com/UyPz_2YALodOdUvoXIirsqLFAqSwWTEY7e31m76CqznaooCoVIM2NF-WL17RtXvwsJqEVfKG0Y8aMHCpmgXx_2LutFQhBWRrUsXrrZs5XoFl4NhkEo4GR50IXGFuisYZ_w=w1280)
+![CRISP DIAGRAM](https://lh6.googleusercontent.com/TREXN8EwNdVgibRYZnZro6tjeR2PnEvNrWbGvseH1FTSEuEvB9-592hyWZPRkCt2HYtiIou11-kiprwACj07wnt-ugj3ZfH-SEFcmYyTvcC2s8fUdEFyOKBcZeUrd5s9BQ=w1280)
 
 
 # Sources
