@@ -1,5 +1,5 @@
 # Doing_DataScience_SS22
-Link to Kaggle: https://www.kaggle.com/datasets/sayansh001/global-transshipment-behaviour
+Data Source: <a href="https://www.kaggle.com/datasets/sayansh001/global-transshipment-behaviour">Kaggle</a>
 ## Context
 Vessels meet at sea for multiple reasons, such as refueling and exchanging crew, but in the commercial fishing industry, they also meet to transfer catch, or transship. Using machine learning, we processed more than 32 billion Automatic Identification System (AIS) signals broadcast from ships at sea to identify vessels capable of receiving transshipments and analyze their movements. Those vessels include fish tenders, live fish carriers, factory/processors and refrigerated cargo vessels. Verifying our results with confirmed fishery registries and open source online resources, we identified vessels capable of transshipping fish at sea between 2012 and December 2017, and incidents in which one of these vessels exhibited telltale transshipment behavior patterns such as drifting slowly enough and long enough to receive a transfer of catch.<br>
 Source: Kaggle
@@ -47,10 +47,10 @@ Source: Kaggle
 * **total_event_duration**: Total duration (hours) of the loitering event
 
 ## References
-* Vessels Flag Code. VesselFinder 
-  https://api.vesselfinder.com/docs/ref-flags.html
-* IMO Ship Identification Number Scheme
-  https://wwwcdn.imo.org/localresources/en/OurWork/IIIS/Documents/A%2030-Res.1117%20-%20Imo%20Ship%20Identification%20Number%20Scheme.pdf
+* Vessels Flag Code.
+  <a href="https://api.vesselfinder.com/docs/ref-flags.html">Vessel Finder</a>
+* IMO Ship
+  <a href="https://wwwcdn.imo.org/localresources/en/OurWork/IIIS/Documents/A%2030-Res.1117%20-%20Imo%20Ship%20Identification%20Number%20Scheme.pdf">Identification Number Scheme</a>
 * Miller NA, Roan A, Hochberg T, Amos J and Kroodsma DA (2018) Identifying Global Patterns of Transshipment Behavior. Front. Mar. Sci. 5:240. doi: 10.3389/fmars.2018.00240
   https://doi.org/10.3389/fmars.2018.00240
 
