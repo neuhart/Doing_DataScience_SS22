@@ -53,6 +53,11 @@ Source: Kaggle
   <a href="https://wwwcdn.imo.org/localresources/en/OurWork/IIIS/Documents/A%2030-Res.1117%20-%20Imo%20Ship%20Identification%20Number%20Scheme.pdf">Identification Number Scheme</a>
 * Miller NA, Roan A, Hochberg T, Amos J and Kroodsma DA (2018) Identifying Global Patterns of Transshipment Behavior. Front. Mar. Sci. 5:240. doi: 10.3389/fmars.2018.00240
   https://doi.org/10.3389/fmars.2018.00240
+* South America’s ocean problems
+<a href="https://news.mongabay.com/2019/04/weak-governance-undermines-south-americas-ocean-ecosystems/">Weak Government Problem</a>
+<a href="https://www.aa.com.tr/en/americas/illegal-fishing-threatens-stocks-in-south-america/2182404">Illegal Fishing Problem</a>
 
+China and South Korea ocean problems
+<a href="https://foreignpolicy.com/2020/11/30/china-beijing-fishing-africa-north-korea-south-china-sea/">Illegal Fishing Problem</a>
 
 
