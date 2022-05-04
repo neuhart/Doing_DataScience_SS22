@@ -57,7 +57,7 @@ Source: Kaggle
 <a href="https://news.mongabay.com/2019/04/weak-governance-undermines-south-americas-ocean-ecosystems/">Weak Government Problem</a>
 <a href="https://www.aa.com.tr/en/americas/illegal-fishing-threatens-stocks-in-south-america/2182404">Illegal Fishing Problem</a>
 
-China and South Korea ocean problems
+* China and South Korea ocean problems
 <a href="https://foreignpolicy.com/2020/11/30/china-beijing-fishing-africa-north-korea-south-china-sea/">Illegal Fishing Problem</a>
 
 
