@@ -1,4 +1,4 @@
-![CRISP DIAGRAM](graphics/Screen Shot 2022-05-04 at 20.40.24.png)
+![CRISP DIAGRAM](https://github.com/neuhart/Doing_DataScience_SS22/blob/9d0145dc1b2806f7ee67366fe8f2775c9be777cc/graphics/Screen%20Shot%202022-05-04%20at%2020.40.24.png)
 
 
 # Sources
