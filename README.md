@@ -147,9 +147,13 @@
 
 * ...
 
-# Modeling:
+# Modeling: K-Means
 
-* ...
+* Using **correlation matrix** for numerical features &rarr;  exclude ending_timestamp
+* Features in K-means: duration_hr, median_speed_knots, starting_timestamp, ending_timestamp, first_timestamp_t, last_timestamp_t, distance_coast
+* Tuning paramater: using Elbow's Method &rarr; Number of cluster is k=7
+
+
 
 # Evaluation:
 
