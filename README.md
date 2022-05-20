@@ -107,6 +107,44 @@
 
 # Data Preparation:
 
+## Data Cleaning
+
+<details><summary> Removing invalid values </summary>
+  
+  - Remove the tuples whose wrong mmsi format (must be 8-digit number)
+  - Remove all tuples whose null values
+  - Remove duplicates
+    </details>
+    
+ <details><summary> Detect and Remove Outliers </summary>
+  
+  * **encounter-events**
+    - duration_hr: remove encouters lasted > 65h (96.7% remain)
+    - median_distance: 5.282% of data whose median distance equals 0 (have not yet decided to remove or not)
+  
+  * **loitering-events**
+    - loitering_duration: remove 1% of the data whose loitering event longer than 200 hours 
+  
+  * **transshipment_vessels**
+    - Unchanged
+   </details>   
+   
+  <details><summary> Change data format </summary>
+  
+  - Change the format of start_time and end_time from object to datetime
+  - 
+    </details>
+    
+
+    
+## Data Transformation
+* **New features**
+  * Calculate the distance of each transshipment to the nearest coast
+  * Calculate the mean of longitude and latitude during the event 
+  
+* **Merge dataset**
+  * Merges the aggregated datasets with the vessel data on the key pair 'transshipment_vessel_mmsi' and 'mmsi'
+
 * ...
 
 # Modeling:
