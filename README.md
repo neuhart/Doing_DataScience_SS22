@@ -1,6 +1,6 @@
 # Doing Data Science SS2022
 
-![CRISP DIAGRAM](https://github.com/neuhart/Doing_DataScience_SS22/blob/9d0145dc1b2806f7ee67366fe8f2775c9be777cc/graphics/Screen%20Shot%202022-05-04%20at%2020.40.24.png)
+![CRISP DIAGRAM](https://github.com/neuhart/Doing_DataScience_SS22/blob/main/graphics/Screen%20Shot%202022-06-13%20at%2021.54.00.png)
 
 
 # Sources
@@ -110,9 +110,9 @@
 
 <details><summary> Removing invalid values </summary>
   
-  - Remove the tuples whose wrong mmsi format (must be 8-digit number)
-  - Remove all tuples whose null values
-  - Remove duplicates
+  - Removed the tuples whose wrong mmsi format (must be 8-digit number)
+  - Removed all tuples whose null values
+  - Removed duplicates
     </details>
     
  <details><summary> Detect and Remove Outliers </summary>
@@ -138,13 +138,12 @@
     
 ## Data Transformation
 * **New features**
-  * Calculate the distance of each transshipment to the nearest coast
-  * Calculate the mean of longitude and latitude during the event 
+  * Calculated the distance of each transshipment to the nearest coast
+  * Calculated the mean of longitude and latitude during the event 
   
 * **Merge dataset**
-  * Merges the aggregated datasets with the vessel data on the key pair 'transshipment_vessel_mmsi' and 'mmsi'
+  * Merged the aggregated datasets with the vessel data on the key pair 'transshipment_vessel_mmsi' and 'mmsi'
 
-* ...
 
 # Modeling: K-Means
 
@@ -156,7 +155,9 @@
 
 # Evaluation:
 
-* ...
+2 cluster investigated in detail:
+* exhibit behavior similar to well documented real world observations
+* show distinct dynamics in the qualitative features omitted for model generation
 
 
 
