@@ -2,7 +2,6 @@
 
 ![CRISP DIAGRAM](https://github.com/neuhart/Doing_DataScience_SS22/blob/main/graphics/Screen%20Shot%202022-06-13%20at%2021.54.00.png)
 
-
 # Sources
 <details><summary>Dataset</summary>
 
@@ -176,4 +175,10 @@
 * China and South Korea ocean problems
 <a href="https://foreignpolicy.com/2020/11/30/china-beijing-fishing-africa-north-korea-south-china-sea/">Illegal Fishing Problem</a>
 
+## Contribution
+All team members have contributed to every processing step
+
+* Philip Neuhart: lead Data Preparation, Modeling
+* Jan Christian Kaiser: lead evaluation, analysis
+* Hoang Minh Trang: lead documentation, presentation
 
