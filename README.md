@@ -7,7 +7,7 @@
 
 * <a href="https://www.kaggle.com/datasets/sayansh001/global-transshipment-behaviour">Kaggle Data Source</a>
 * <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/data_description.md">Specified Data Description</a>
-* <a href="https://github.com/neuhart/Doing_DataScience_SS22/tree/main/data">Modified and Original Dataset</a>
+
 
 
 
@@ -17,10 +17,10 @@
 
 <details><summary>Codes</summary>
   
-* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/maps.ipynb">Global Map</a>
-* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/EDA.ipynb">Data Cleaning</a>
-* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/transformation.ipynb">Data Transformation</a>
-* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/Clustering/Clustering_p.ipynb">Dimensional Reduction</a>
+* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/maps.ipynb">Global Map for Analysis</a>
+* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/EDA.ipynb">Data Understanding</a>
+* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/transformation.ipynb">Data Preparation</a>
+* <a href="https://github.com/neuhart/Doing_DataScience_SS22/blob/main/Clustering_p.ipynb">Modeling</a>
 
 </p>
 </details>
